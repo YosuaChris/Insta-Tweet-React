@@ -12,8 +12,8 @@ const ProfileCard = () => {
             </div>
 
             <div className="ProfileName">
-                <span>Bram Kontol</span>
-                <span>@gigoloprofesional</span>
+                <span>Ini Username</span>
+                <span>@usernamenya</span>
             </div>
             <div className="followStatus">
                 <hr />
