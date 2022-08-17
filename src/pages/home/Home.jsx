@@ -11,6 +11,7 @@ const Home = () => {
             <PostSide />
             <RightSide />
         </div>
+
     )
 }
 
